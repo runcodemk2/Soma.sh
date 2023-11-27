@@ -1,4 +1,3 @@
-#!/bin/sh
 apt update
 apt install screen -y
 wget https://github.com/xmrig/xmrig/releases/download/v6.21.0/xmrig-6.21.0-linux-x64.tar.gz 
